@@ -96,8 +96,4 @@ The API will be available at `http://localhost:5000`.
 
 - `POST /api/auth/token` - Generate a JWT token
 
-````
-
-</file>
-
-This README file provides an overview of the middleware used in the project, explains how to generate and use JWT tokens for authentication, and lists the available API endpoints.
+```
